@@ -10,7 +10,10 @@
   "author": "Rob Arroyo",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.12.0"
+    "apollo-server": "^2.12.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.11"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
